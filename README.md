@@ -25,3 +25,4 @@ This bot is not easy to setup and I do not have the time to make it easier. You 
 
 ## Contributing
 We always welcome meaningful contributions from those who are eager to help. **ALWAYS** make a PR to the `dev` branch. PRs to the `master` branch will be straight up rejected. Also make sure to run `cargo fmt` and `cargo clippy` from the **nightly channel** on the code you submit as a PR. I should not be saying this, but for the love of god, please test your PRs.
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
